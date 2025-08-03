@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.7">
+  <diagram name="Page-1" id="kUaRhPbMUN79kcQwGSGz">
+    <mxGraphModel dx="1848" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="800" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="740" as="sourcePoint" />
+            <mxPoint x="300" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="220" as="sourcePoint" />
+            <mxPoint x="300" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="740" as="sourcePoint" />
+            <mxPoint x="520" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <mxPoint x="520" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-11" value="&lt;div&gt;Инфраструктура&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-12" value="ПО" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="780" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-13" value="Персонал" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-14" value="Интеграции" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="780" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="220" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-16" value="&lt;div&gt;Процессы&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-17" value="Нет отказоустойчивости" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="375" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-18" value="Локальные ограничения сети" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-19" value="1С работает в файловом режиме" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="528" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-20" value="Excel решения невозможно масштабировать" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="588" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-21" value="Отсутствие DevOps практик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="425" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-22" value="&lt;div&gt;ККМ завязаны на OLE,&lt;/div&gt;&lt;div&gt;&amp;nbsp;сложно масштабировать&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-23" value="&lt;div&gt;Непрозрачные связи&amp;nbsp;&lt;/div&gt;&lt;div&gt;между системами&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="570" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-24" value="&lt;div&gt;Низкий уровень цифровой&amp;nbsp;&lt;/div&gt;&lt;div&gt;грамотности у пользователей&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-25" value="&lt;div&gt;Нехватка квалифицированного&amp;nbsp;&lt;/div&gt;&lt;div&gt;IT персонала&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-26" value="&lt;div&gt;Отсутствие описания&amp;nbsp;&lt;/div&gt;&lt;div&gt;бизнес-процессов&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-27" value="&lt;div&gt;Нет мониторинга&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY3l6kTrvAaWnZliwPHF-28" value="Нет аудирования и логгирования" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

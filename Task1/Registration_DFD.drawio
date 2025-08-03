@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.7">
+  <diagram name="Page-1" id="0PzdSS1-grHROscg3avO">
+    <mxGraphModel dx="2514" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iCY-IyB7xlObKmSqrzI5-1" target="iCY-IyB7xlObKmSqrzI5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iCY-IyB7xlObKmSqrzI5-1" target="iCY-IyB7xlObKmSqrzI5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-1" value="Регистрация" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-2" value="Список пациентов" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-3" value="Данные пациента" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iCY-IyB7xlObKmSqrzI5-4" target="iCY-IyB7xlObKmSqrzI5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-10" value="ABAC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iCY-IyB7xlObKmSqrzI5-6">
+          <mxGeometry x="-0.0605" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-4" value="&lt;div&gt;Администратор&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iCY-IyB7xlObKmSqrzI5-5" target="iCY-IyB7xlObKmSqrzI5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-5" value="Пациент" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iCY-IyB7xlObKmSqrzI5-11" value="Шифрование" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

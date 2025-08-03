@@ -10,6 +10,11 @@
         <mxCell id="vBmb9RzrL7uQ2n41rewb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBmb9RzrL7uQ2n41rewb-1" target="vBmb9RzrL7uQ2n41rewb-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vBmb9RzrL7uQ2n41rewb-8" value="ABAC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vBmb9RzrL7uQ2n41rewb-7">
+          <mxGeometry x="0.103" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vBmb9RzrL7uQ2n41rewb-1" value="Учет оборудования" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="290" width="140" height="140" as="geometry" />
         </mxCell>

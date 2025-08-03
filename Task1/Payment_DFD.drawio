@@ -11,28 +11,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-2" value="Платеж" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="500" y="220" width="140" height="140" as="geometry" />
+          <mxGeometry x="930" y="440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GFDJt-E9Jwr8k0GTpx8U-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-4" target="GFDJt-E9Jwr8k0GTpx8U-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-4" value="1С Бухгалтерия" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="445" width="100" height="30" as="geometry" />
+          <mxGeometry x="610" y="665" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-5" target="GFDJt-E9Jwr8k0GTpx8U-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-5" value="Кассир" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="355" y="465" width="100" height="50" as="geometry" />
+          <mxGeometry x="785" y="685" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-6" target="GFDJt-E9Jwr8k0GTpx8U-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-6" value="Бухгалтер" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="10" y="265" width="100" height="50" as="geometry" />
+          <mxGeometry x="440" y="485" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-9" target="GFDJt-E9Jwr8k0GTpx8U-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GFDJt-E9Jwr8k0GTpx8U-36" value="Маскирование платежных данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFDJt-E9Jwr8k0GTpx8U-20">
+          <mxGeometry x="-0.4331" y="1" relative="1" as="geometry">
+            <mxPoint x="-40" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-9" value="Пациент" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="730" y="265" width="100" height="50" as="geometry" />
+          <mxGeometry x="1330" y="485" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-21" target="GFDJt-E9Jwr8k0GTpx8U-5">
           <mxGeometry relative="1" as="geometry" />
@@ -41,19 +49,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-21" value="Принятие оплаты" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="235" width="110" height="110" as="geometry" />
+          <mxGeometry x="780" y="455" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-24" target="GFDJt-E9Jwr8k0GTpx8U-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFDJt-E9Jwr8k0GTpx8U-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-24" target="GFDJt-E9Jwr8k0GTpx8U-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFDJt-E9Jwr8k0GTpx8U-24" target="GFDJt-E9Jwr8k0GTpx8U-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFDJt-E9Jwr8k0GTpx8U-24" value="Обработка платежа" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="235" width="110" height="110" as="geometry" />
+          <mxGeometry x="610" y="455" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GFDJt-E9Jwr8k0GTpx8U-39" value="ABAC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="547" y="497" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
